@@ -22,7 +22,19 @@ function Haeder(){
                                     className="navbar-toggle collapsed"
                                     data-toggle="collapse"
                                     data-target="#bs-example-navbar-collapse-1"
-                                    aria-expanded="false"></button>
+                                    aria-expanded="false">
+                                        <span className="sr-only">Toggle Navigation</span>
+                                        <span className="icon-bar"></span>
+                                        <span className="icon-bar"></span>
+                                        <span className="icon-bar"></span>                   
+                                    </button>
+                                </div>
+                                <div className="col-md-9 col-sm-9 navbar-style">
+                                    <div className="collapse navbar-collapse"
+                                    id="bs-example-navbar-collapse-1"
+                                    >
+                                        <ul className="nav navbar-nav"></ul>
+                                    </div>
                                 </div>
                             </div>
                         </div>
