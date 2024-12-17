@@ -47,8 +47,46 @@ const Home = () => {
                                                         aria-hidden="true"></i>
                                                     </a>
                                                 </li>
+                                                <li className='wow fadeIn' data-wow-delay=".8s">
+                                                    <a href='' 
+                                                    target='newtab'>
+                                                        <i 
+                                                        className='fa fa-twitter'
+                                                        aria-hidden="true"></i>
+                                                    </a>
+                                                </li>
+                                                <li className='wow fadeIn' data-wow-delay="1s">
+                                                    <a href='' 
+                                                    target='newtab'>
+                                                        <i 
+                                                        className='fa fa-book'
+                                                        aria-hidden="true"></i>
+                                                    </a>
+                                                </li>
                                             </ul>
                                         </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className='parallax' data-velocity="-.1"></div>
+                <div className='parallax' data-velocity="-.5" data-fit="525"></div>
+            </div>
+
+            /*===================================== About =====================================*/
+
+            <div id='about'>
+                <div className='about-content'>
+                    <div className='love-grid text-center'>
+                        <div className='container'>
+                            <div className='row'>
+                                <div className='col-md-12'>
+                                    <div className='main-title text-center wow fadeIn'>
+                                        <h3>What I do</h3>
+                                        <div className='underline1'></div>
+                                        <div className='underline2'></div>
                                     </div>
                                 </div>
                             </div>
