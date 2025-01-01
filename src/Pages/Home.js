@@ -87,6 +87,38 @@ const Home = () => {
                                         <h3>What I do</h3>
                                         <div className='underline1'></div>
                                         <div className='underline2'></div>
+                                        <p>
+                                        At present time I'm working on a multi-role, as a Web
+                        Developer I design and create various websites. And as
+                        UI/UX Designer I create many designs for Web
+                        Applications and Mobile applications. I create the
+                        beauty of the site. I'm responsible for the site's
+                        technical aspects, such as its performance and capacity,
+                        which are measures of a website's speed and how much
+                        traffic the site can handle. In addition, I also create
+                        content for the site.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className='row love-row wow fadeIn'>
+                                <div className='col-md-3col-sm-6'>
+                                    <div className='love-details' data-wow-delay=".1s">
+                                        <i
+                                        className='fa fa-pencil-square-o love-icon'
+                                        aria-hidden="true">
+                                        </i>
+                                        <h3>working Hard</h3>
+                                        <div className='underline1'></div>
+                                        <div className='underline2'></div>
+                                        <p>Always believe in hard-work in my profession</p>
+                                    </div>
+                                </div>
+                                <div className='col-md-3 col-sm-6'>
+                                    <div className='love-detils' data-wow-delay=".3s">
+                                        <i
+                                        className='fa fa-file-image-o love-icon'
+                                        aria-hidden="true"></i>
                                     </div>
                                 </div>
                             </div>
