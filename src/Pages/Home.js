@@ -119,6 +119,20 @@ const Home = () => {
                                         <i
                                         className='fa fa-file-image-o love-icon'
                                         aria-hidden="true"></i>
+                                        <h3>UI/UX Design</h3>
+                                        <div className='underline1'></div>
+                                        <div className='underline2'></div>
+                                        <p>Love to do UI/UX design for new product</p>
+                                    </div>
+                                </div>
+                                <div className='col-md-3 col-sm-6'>
+                                    <div className='love-details' data-wow-delay=".2s">
+                                        <i className='fa fa-globe love-icon'
+                                        aria-hidden="true"></i>
+                                        <h3>Web Design</h3>
+                                        <div className='underline1'></div>
+                                        <div className='underline2'></div>
+                                        <p>Passionate about Web Design from start</p>
                                     </div>
                                 </div>
                             </div>
