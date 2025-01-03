@@ -135,6 +135,9 @@ const Home = () => {
                                         <p>Passionate about Web Design from start</p>
                                     </div>
                                 </div>
+                                <div className='col-md-3 col-sm-6'>
+                                    <div className='love-details' data-wow-delay=".4s"></div>
+                                </div>
                             </div>
                         </div>
                     </div>
