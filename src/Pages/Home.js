@@ -136,7 +136,9 @@ const Home = () => {
                                     </div>
                                 </div>
                                 <div className='col-md-3 col-sm-6'>
-                                    <div className='love-details' data-wow-delay=".4s"></div>
+                                    <div className='love-details' data-wow-delay=".4s">
+                                        <i className='fa fa-cog love-icon' aria-hidden="true"></i>
+                                    </div>
                                 </div>
                             </div>
                         </div>
