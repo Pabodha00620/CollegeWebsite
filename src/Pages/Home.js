@@ -138,6 +138,10 @@ const Home = () => {
                                 <div className='col-md-3 col-sm-6'>
                                     <div className='love-details' data-wow-delay=".4s">
                                         <i className='fa fa-cog love-icon' aria-hidden="true"></i>
+                                        <h3>Web Development</h3>
+                                        <div className='underline1'></div>
+                                        <div className='underline2'></div>
+                                        <p>Created all type of modern web Development.</p>
                                     </div>
                                 </div>
                             </div>
