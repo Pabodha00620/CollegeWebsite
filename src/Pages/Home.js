@@ -147,6 +147,15 @@ const Home = () => {
                             </div>
                         </div>
                     </div>
+
+                    <dic className="about-back"></dic>
+                    <div className='me-grid'>
+                        <div className='container'>
+                            <div className='row'>
+                                <div className='col-md-4 col-sm-6 col-xs-12 about-col'></div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </React>
