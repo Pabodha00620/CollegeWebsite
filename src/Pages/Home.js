@@ -152,7 +152,15 @@ const Home = () => {
                     <div className='me-grid'>
                         <div className='container'>
                             <div className='row'>
-                                <div className='col-md-4 col-sm-6 col-xs-12 about-col'></div>
+                                <div className='col-md-4 col-sm-6 col-xs-12 about-col'>
+                                    <div className='about-image'>
+                                        <img
+                                        src='assets/img/about-image.jpg'
+                                        alt='sanajit-jana'
+                                        className='about-img wow fadeIn'/>
+                                    </div>
+                                </div>
+                                <div className='col-md-8 col-sm-6 col-x-12 about-col'></div>
                             </div>
                         </div>
                     </div>
