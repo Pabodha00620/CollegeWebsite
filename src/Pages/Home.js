@@ -160,7 +160,21 @@ const Home = () => {
                                         className='about-img wow fadeIn'/>
                                     </div>
                                 </div>
-                                <div className='col-md-8 col-sm-6 col-x-12 about-col'></div>
+                                <div className='col-md-8 col-sm-6 col-x-12 about-col'>
+                                    <div className='about-details wow fadeIn'>
+                                        <div className='main-title left-title text-left wow fadeIn'>
+                                            <h3>Hi</h3>
+                                            <div className='underline1 no-margin'></div>
+                                            <div className='underline2 no-margin'></div>
+                                        </div>
+                                        <p className='wow fadeIn'>
+                                            fgsggsyfgsgfbfhgfhghgsytysfghsygfydgf
+                                            <a className='underline2' href="#contact">
+                                                here.
+                                            </a>
+                                        </p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
