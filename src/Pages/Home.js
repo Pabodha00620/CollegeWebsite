@@ -173,6 +173,11 @@ const Home = () => {
                                                 here.
                                             </a>
                                         </p>
+                                        <a className='about-link-1'
+                                        href='assets/cv/'
+                                        target='_blank'>
+                                            see resume
+                                        </a>
                                     </div>
                                 </div>
                             </div>
