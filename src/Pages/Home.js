@@ -178,6 +178,9 @@ const Home = () => {
                                         target='_blank'>
                                             see resume
                                         </a>
+                                        <a className='about-link-2' href='#contact'>
+                                            Hire Me
+                                        </a>
                                     </div>
                                 </div>
                             </div>
