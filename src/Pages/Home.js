@@ -148,7 +148,7 @@ const Home = () => {
                         </div>
                     </div>
 
-                    <dic className="about-back"></dic>
+                    <div className="about-back"></div>
                     <div className='me-grid'>
                         <div className='container'>
                             <div className='row'>
@@ -186,8 +186,102 @@ const Home = () => {
                             </div>
                         </div>
                     </div>
+                    <div className='work-center text-center'>
+                        <div className='counter'>
+                            <div className='container'>
+                                <div className='row row fadeIn'>
+                                    <div className='col=md-3 col-sm-6'>
+                                        <div className='work-statistics'>
+                                            <i
+                                            className='fa fa-pencil-square-0 stat-icon'
+                                            aria-hidden="true"></i>
+                                            <h3 className='Count'>32+</h3>
+                                            <div className='underline1'></div>
+                                            <div className='underline2'></div>
+                                            <p>UI/UX Design done</p>
+                                        </div>
+                                    </div>
+                                    <div className='col-md-3 col-sm-6'>
+                                        <div className='work-statistics'>
+                                            <i
+                                            className='fa fa-bolt stat-icon'
+                                            aria-hidden="true"></i>
+                                            <h3 className='Count'>15+</h3>
+                                            <div className='underline1'></div>
+                                            <div className='underline2'></div>
+                                            <p>website Created</p>
+                                        </div>
+                                    </div>
+                                    <div className='col-md-3 col-sm-6'>
+                                        <div className='work-statistics'>
+                                            <i 
+                                            className='fa fa-coffee stat-icon'
+                                            aria-hidden="true"></i>
+                                            <h3 className='Count'>100</h3>
+                                            <div className='underine1'></div>
+                                            <div className='underline2'></div>
+                                            <p>Cups  Coffee Taken</p>
+                                        </div>                                    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
+            /*===================================== Skill =====================================*/
+
+            <div id='skill'>
+                <div className='skill-main'>
+                    <div className='container'>
+                        <div className='row'>
+                            <div className='col-md-12'>
+                                <div className='main-tittle-center wow fadeIn'>
+                                    <h3>My Skill</h3>
+                                    <div className='underline1'></div>
+                                    <div className='underline2'></div>
+                                    <p>
+                                    I value simple content structure, clean design patterns,
+                                    and thoughtful interactions.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className='row love-row wow fadeIn'>
+                            <div className='col-md-6'>
+                                <div className='skill-details text-left'>
+                                    <p>
+                                    This paragraph contains a lot of lines in the source code, but the browser ignores it. 
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className='row love-row wow fadeIn'>
+                            <div className='col-md-6'>
+                                <div className='skill-details text-left'>
+                                    <p>
+                                    This paragraph contains a lot of lines in the source code, but the browser ignores it.
+                                    </p>
+                                </div>
+                            </div>
+                            <div className='col-md-6'>
+                                <div className='skill-details'>
+                                    <div className='content'>
+                                        <div className='col'>
+                                            <ul id='skill-main'>
+                                                <li>
+                                                    <h3>Java/php-92%</h3></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
         </React>
     )
 }
