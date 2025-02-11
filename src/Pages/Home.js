@@ -270,7 +270,18 @@ const Home = () => {
                                         <div className='col'>
                                             <ul id='skill-main'>
                                                 <li>
-                                                    <h3>Java/php-92%</h3></li>
+                                                    <h3>Java/php-92%</h3>
+                                                    </li>
+                                                    <li>
+                                                        <h3>HTML/CSS/JavaScript-90%</h3>
+                                                    </li>
+                                                    <li>
+                                                        <h3>React JS-60%</h3>
+                                                    </li>
+                                                    <li>
+                                                        <h3>UI/UX-70%</h3>
+                                                    </li>
+                                                    <h3>GIT/Github/Docker-85%</h3>
                                             </ul>
                                         </div>
                                     </div>
