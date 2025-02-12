@@ -291,8 +291,25 @@ const Home = () => {
                     </div>
                 </div>
             </div>
+            /*===================================== Resume =====================================*/
 
-
+        <div id='resume'>
+            <div className='resume-content'>
+                <div className='resume-grid text-center'>
+                    <div className='container'>
+                        <div className='row'>
+                            <div className='col-md-12'>
+                                <div className='main-title text-center wow fadeIn'>
+                                    <h3>Educational Story</h3>
+                                    <div className='underline1'></div>
+                                    <div className='underline2'></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         </React>
     )
 }
