@@ -303,6 +303,16 @@ const Home = () => {
                                     <h3>Educational Story</h3>
                                     <div className='underline1'></div>
                                     <div className='underline2'></div>
+                                    <p> I like to code things from scratch, and enjoy bringing
+                                    ideas to life in the browser.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className='row love-row wow fadeIn'>
+                            <div className='col-md-4 col-sm-4'>
+                                <div className='resume-details' data-wow-delay=".2s">
+                                    <div className='resume-hover'></div>
+                                    <div className='resume-main'></div>
                                 </div>
                             </div>
                         </div>
