@@ -313,6 +313,32 @@ const Home = () => {
                                 <div className='resume-details' data-wow-delay=".2s">
                                     <div className='resume-hover'></div>
                                     <div className='resume-main'></div>
+                                    <i 
+                                    className='fa fa-home resume-icon'
+                                    aria-hidden="true"></i>
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className='col-md-4 col-sm-4'>
+                            <div className='resume-details' data-wow-delay=".3s">
+                                <div className='resume-hover'></div>
+                                <div className='resume-main'>
+                                    <i
+                                    className='fa fa-graduation-cap resume-icon'
+                                    aria-hidden="true"></i>
+                                    <h3>Graduation</h3>
+                                    <h2>2017-2020</h2>
+                                    <div className='underline1'></div>
+                                    <div className='underline2'></div>
+                                    <p>Achieved Graduation from {" "}
+                                        <a href=''
+                                        target='_blank'
+                                        rel='noopener noreferrer'>
+                                            CCLMS (Contai Colleege of Learning and Management Science)
+                                        </a>
+                                        , Contai, West Bemgal, India
+                                    </p>
                                 </div>
                             </div>
                         </div>
