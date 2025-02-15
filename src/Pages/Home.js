@@ -316,7 +316,9 @@ const Home = () => {
                                     <i 
                                     className='fa fa-home resume-icon'
                                     aria-hidden="true"></i>
-                                    <p></p>
+                                    <p>
+
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -338,6 +340,27 @@ const Home = () => {
                                             CCLMS (Contai Colleege of Learning and Management Science)
                                         </a>
                                         , Contai, West Bemgal, India
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className='col-md col-sm-'>
+                            <div className='resume-details' data-wow-delay=".4s">
+                                <div className='resume-hover'></div>
+                                <div className='resume-main'>
+                                    <i className='fa fa-graduation-cap resume-icon'
+                                    aria-hidden='true'></i>
+                                    <h3>Training &amp; Skill</h3>
+                                    <h2>2022-2022</h2>
+                                    <div className='underline1'></div>
+                                    <div className='underline2'></div>
+                                    <p>
+                                        <a
+                                        href=''
+                                        target=''
+                                        rel=''
+                                        >Main School</a>
+                                        ,Bengaluru, India.
                                     </p>
                                 </div>
                             </div>
