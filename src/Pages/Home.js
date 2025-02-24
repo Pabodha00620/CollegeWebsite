@@ -393,7 +393,43 @@ const Home = () => {
                                             Patel G Tech LLP
                                         </a>
                                     </h3>
+                                    <h4>Repub Member</h4>
+                                    <h2>2019-2020</h2>
+                                    <div className='underline1'></div>
+                                    <div className='underline2'></div>
+                                    <p></p>
                                 </div>
+                            </div>
+                        </div>
+                        <div className='col-md col-sm-12'>
+                            <div className='exp-details' data-wow-delay=".3s">
+                                <div className='exp-hover'></div>
+                                <div className='ep-main'>
+                                    <i 
+                                    className='fa fa-building exp-icon'
+                                        aris-hiden="true">
+                                    </i>
+                                    <h3>
+                                        <a
+                                        href=''
+                                        target='_blank'
+                                        rel='noopener norferrer'
+                                        style={{color:"#4d4d4d"}}
+                                        >
+                                            Uaguria Software
+                                        </a>
+                                    </h3>
+                                    <h4>Web Developer</h4>
+                                    <h2>2020-2022</h2>
+                                    <div className='underline1'></div>
+                                    <div className='ubderline2'></div>
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className='col-md-4 col-sm-12'>
+                            <div className='exp-deatils' data-wow-delay=".4s">
+                                <div className='exp-hover'></div>
                             </div>
                         </div>
                     </div>
